@@ -482,7 +482,7 @@ infoTab:AddLabel("Made By: UNO")
 infoTab:AddLabel("Script Owner: UNO FROM TEMU")
 infoTab:AddLabel("")
 infoTab:AddLabel("")
-infoTab:AddLabel("  LF SINGLE MOM NA WALANG ANAK").TextSize = 25
+infoTab:AddLabel("  LF SINGLE MOM NA WALANG ANAK").TextSize = 20
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
