@@ -482,7 +482,9 @@ infoTab:AddLabel("Made By: UNO")
 infoTab:AddLabel("Script Owner: UNO FROM TEMU")
 infoTab:AddLabel("")
 infoTab:AddLabel("")
-infoTab:AddLabel("LF SINGLE MOM NA WALANG ANAK").TextSize = 18
+infoTab:AddLabel(" FB:Uno Qpal").TextSize = 18
+infoTab:AddLabel(" TIKTOK: sweetpotatoyeh").TextSize = 18
+
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
